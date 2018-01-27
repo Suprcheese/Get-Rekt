@@ -1,0 +1,10 @@
+{
+  "name": "Get-Rekt",
+  "version": "1.0.0",
+  "factorio_version": "0.16",
+  "title": "Get Rekt!",
+  "author": "Supercheese",
+  "homepage": "http://www.factorioforums.com/",
+  "dependencies": ["base >= 0.16.0"],
+  "description": "Have you ever wondered why your tank with 10 hitpoints kept working for all intents and purposes exactly the same as a tank will full hitpoints? Well, now your damaged vehicles might Get Rekt! You had better be careful not to let your vehicle take too much damage, or you might find it falling to pieces!"
+}
